@@ -2,7 +2,7 @@ HomeWAMP
 ========
 
 ## Qu'est-ce que c'est ?
-HomeWAMP est une home de substitution à celle d'origine. Un peu plus jolie et plus complète, entre autres. Un atout par rapport à d'autres pages que vous pourrez trouver : elle reste "one-file", telle l'`index.php` d'origine.
+Ho
 
 Au final, ça ressemble à ça :
 ![Screenshot de HomeWAMP](https://raw.github.com/Alex-D/HomeWAMP/master/screenshot.jpg "Screenshot de HomeWAMP")
